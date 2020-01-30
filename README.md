@@ -1,2 +1,8 @@
-# gostack_desafio01
-GoStach #10 - Desafio 01
+# Bootcamp Rocketseat - GoStack #10 - Desafio 01
+> NodeJS > Express, Nodemon, Rotas, Métodos, CRUD, Middlewares
+
+## Execução
+
+```
+yarn dev
+```
